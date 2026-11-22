@@ -14,7 +14,6 @@ An AI-powered sales intelligence platform for lead analysis, qualification, pers
 ---
 
 ## 📌 Overview
-## 📌 Overview
 
 **AI Lead Intelligence & Sales Automation Platform** is an AI-powered sales intelligence solution designed to streamline how businesses manage, analyze, qualify, and engage with potential customers.
 
